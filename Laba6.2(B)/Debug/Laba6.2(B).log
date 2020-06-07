@@ -1,0 +1,9 @@
+﻿  Laba6.2(B).cpp
+D:\C++\Laba6.2(B)\Laba6.2(B)\Laba6.2(B).cpp(64,12): warning C4101: kids: неиспользованная локальная переменная
+D:\C++\Laba6.2(B)\Laba6.2(B)\Laba6.2(B).cpp(121,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\C++\Laba6.2(B)\Laba6.2(B)\Laba6.2(B).cpp(138,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\C++\Laba6.2(B)\Laba6.2(B)\Laba6.2(B).cpp(167,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\C++\Laba6.2(B)\Laba6.2(B)\Laba6.2(B).cpp(175,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\C++\Laba6.2(B)\Laba6.2(B)\Laba6.2(B).cpp(177,25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\C++\Laba6.2(B)\Laba6.2(B)\Laba6.2(B).cpp(206): warning C4715: Vospitatil::givepaper: значение возвращается не при всех путях выполнения
+  Laba6.2(B).vcxproj -> D:\C++\Laba6.2(B)\Debug\Laba6.2(B).exe
